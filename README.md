@@ -1,4 +1,4 @@
-# Docus_TFG_XXX
+﻿# Docus_TFG_XXX
 Este documento tiene un formato de texto de tipo "mark-???"
 Estoy haciendo una nueva modificación. Básicamente, para seguir manipulando y aprendiendo la mecánica del programa.
 
@@ -8,3 +8,5 @@ Este enlace es interesante: http://mashable.com/2009/02/21/online-document-colla
 Otro enlace de interés para edición de texto markdown: http://www.markdownpad.com/
 
 Otro editor de markdown más para windows: https://www.sitepoint.com/best-markdown-editors-windows/
+
+Otra modificación, ahora en local
