@@ -10,3 +10,6 @@ Otro enlace de interés para edición de texto markdown: http://www.markdownpad.
 Otro editor de markdown más para windows: https://www.sitepoint.com/best-markdown-editors-windows/
 
 Otra modificación, ahora en local
+
+Voy a intentar ver si puedo visualizar imágenes alojadas en el repositorio, por ejemplo:
+https://github.com/mmelguiTFG/Docus_TFG_XXX/blob/master/th%5B7%5D.jpg
